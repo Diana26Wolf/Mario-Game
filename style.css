@@ -1,0 +1,34 @@
+body{
+    background-image : url('background.jpg');
+    background-size: cover;
+}
+#heading{
+    color: white;
+    background-color: rgba(1, 1, 27, 0.363);
+    width: fit-content;
+    padding: 20px;
+    margin-top: -35px;
+}
+button{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+#status{
+    color: white;
+    background-color: rgba(128, 0, 128, 0.315);
+    width: fit-content;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction{
+    display: inline-block;
+    width: 45%  ;
+}
+video{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
